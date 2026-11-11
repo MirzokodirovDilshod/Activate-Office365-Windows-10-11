@@ -24,5 +24,5 @@ irm https://get.activated.win | iex
 ![image](https://github.com/user-attachments/assets/8747d75a-6297-4aca-9ded-11fd44b03954)
 
 ----------------------------------------
-# Share it if you can and don't forget to leave some start 😁
+# Share it if you can and don't forget to leave some stars 😁
 ## Magical credits to [abdullah-al-faahim](https://github.com/abdullah-al-faahim)
