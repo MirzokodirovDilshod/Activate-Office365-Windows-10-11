@@ -17,6 +17,8 @@ irm https://get.activated.win | iex
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/7923d457-ad18-412c-8f4b-31736ea8a56f)
 
+Press 2 to continue to download Office tools
+
 ![image](https://github.com/user-attachments/assets/cd75c2ea-7078-49b0-9726-f68798b8c3f8)
 
 ![image](https://github.com/user-attachments/assets/815c1966-660e-426a-9212-2e9e19eaf67f)
